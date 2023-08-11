@@ -1,5 +1,4 @@
 # Hi 👋
-<hr>
 Perkenalkan nama saya **Muhammad Azhari Desky**  
 
 <!--
