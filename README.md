@@ -13,8 +13,17 @@ My name is **Muhammad Azhari Desky**
 
 ## Contact me
 <a href="mailto:azharidesky33@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-<a href="https://www.instagram.com/azhriidesky/"><img src="[https://img.icons8.com/color/96/000000/gmail.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png)" alt="email"/></a>
-<a href="https://www.linkedin.com/in/muhammad-azhari-desky/"><img src="[https://img.icons8.com/color/96/000000/gmail.png](https://cdn-icons-png.flaticon.com/256/174/174857.png)" alt="linkedin"/></a>
+<a href="https://www.instagram.com/azhriidesky/"><img src="https://img.icons8.com/color/96/000000/instagram.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/muhammad-azhari-desky/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+
+## Skills
+<a href= "#"><img src="https://img.icons8.com/color/96/000000/git.png" class= "style= height: 300px" /></a>
+<a href= "#"><img src="https://img.icons8.com/color/96/000000/github.png" class= "style= height: 300px" /></a>
+<a href= "#"><img src="https://img.icons8.com/color/96/000000/javascript.png" class= "style= height: 300px" /></a>
+<a href= "#"><img src="https://img.icons8.com/color/96/000000/npm.png" class= "style= height: 300px" /></a>
+<a href= "#"><img src="https://img.icons8.com/color/96/000000/figma.png" class= "style= height: 300px" /></a>
+<a href= "#"><img src="https://img.icons8.com/color/96/000000/mysql.png" class= "style= height: 300px" /></a>
+<a href= "#"><img src="https://img.icons8.com/color/96/000000/webpack.png" class= "style= height: 300px" /></a>
 
 <!--
 **mazharidesky/mazharidesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
