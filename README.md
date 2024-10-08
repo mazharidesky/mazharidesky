@@ -1,8 +1,7 @@
 # Hi 👋
 My name is **Muhammad Azhari Desky**  
 - I’m currently studying in University of Malikussaleh
-- I’m currently learning javascript and PHP language
-- I’m currently joining the program MSIB Batch 6 on Dicoding Indonesia
+- I’m currently using Next.js on my project
 
 ## GitHub Stats
 <p align="left">
